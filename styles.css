@@ -97,8 +97,8 @@ header {
   background-color: rgba(163, 163, 163, 0.164);
 
 }
-.tarjetita a{
-
+.tarjetita h2{
+  color: black;
 }
 .calidad {
   display: flex;
